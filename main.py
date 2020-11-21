@@ -1,6 +1,6 @@
 import pygame
 
-pygame.init()  # you need to initialize always the pygame
+pygame.init()  # you need to initialize always the pygame by Bokitaa
 
 win = pygame.display.set_mode((500, 480))  # this is our window and the size of the window
 pygame.display.set_caption('First Game')  # this is to display the window
